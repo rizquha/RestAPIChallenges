@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "list": "Travelling",
+      "status": false
+    },
+    {
+      "id": 1,
+      "list": "Belajar",
+      "status": true
+    },
+    {
+      "id": 2,
+      "list": "Jogging",
+      "status": false
+    }
+  ]
+}

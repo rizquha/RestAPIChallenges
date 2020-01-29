@@ -1,0 +1,15 @@
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\obj\Debug\netcoreapp3.0\RestAPI.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\obj\Debug\netcoreapp3.0\RestAPI.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\obj\Debug\netcoreapp3.0\RestAPI.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\RestAPI.exe
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\RestAPI.deps.json
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\RestAPI.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\RestAPI.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\RestAPI.dll
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\RestAPI.pdb
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\obj\Debug\netcoreapp3.0\RestAPI.csproj.CopyComplete
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\obj\Debug\netcoreapp3.0\RestAPI.dll
+D:\Users\bsi50129\.vscode\Task REST API\RestAPI\obj\Debug\netcoreapp3.0\RestAPI.pdb
